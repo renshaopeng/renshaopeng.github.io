@@ -2,44 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/hello-world.html</loc>
-    
-    <lastmod>2019-07-21T02:28:13.248Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/%E7%8E%A9%E8%BD%ACspring.html</loc>
+    <loc>http://51siciyuan.com/%E7%8E%A9%E8%BD%ACspring.html</loc>
     
     <lastmod>2019-07-21T02:21:21.999Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://51siciyuan.com/about/index.html</loc>
     
     <lastmod>2019-07-21T01:33:48.077Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/%E4%BD%A0%E5%A5%BD-hexo.html</loc>
-    
-    <lastmod>2019-06-26T02:26:06.727Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://51siciyuan.com/tags/index.html</loc>
     
     <lastmod>2019-06-26T02:24:57.861Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/first.html</loc>
-    
-    <lastmod>2019-05-27T14:25:41.255Z</lastmod>
     
   </url>
   
