@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /home/
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+Sitemap: http://51siciyuan/sitemap.xml
+Sitemap: http://51siciyuan/baidusitemap.xml
