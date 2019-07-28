@@ -42,8 +42,6 @@
 
 
 
-<script src="//cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-
 <script src="/js/iconfont.js?v=1"></script>
 
 </head>
@@ -273,24 +271,23 @@
 
 
     <div id="comments"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-
-<script type="text/javascript">
-    $.getScript('/js/gitalk.js', function () {
-        var gitalk = new Gitalk({
-            clientID: '35291d57fc150c641f2f',
-            clientSecret: 'a77cee5077cb1c1e837891debcfe77f87f5e614e',
-            repo: 'renshaopeng.github.io',
-            owner: 'renshaopeng',
-            admin: ['renshaopeng'],
-            id: location.pathname,
-            distractionFreeMode: 'true',
-            language: 'zh-CN',
-            perPage: parseInt('10',10)
-        })
-        gitalk.render('comments')
+<!-- <link rel="stylesheet" href="https://jjeejj.github.io/css/gitment.css"> -->
+<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
+<script src="https://billts.site/js/gitment.js"></script>
+<script src="/js/gitment.js"></script>
+<script>
+    var gitment = new Gitment({
+        id: 'http://51siciyuan.com/about/index.html', // 可选。默认为 location.href
+        owner: 'renshaopeng',
+        repo: 'renshaopeng.github.io',
+        oauth: {
+            client_id: '35291d57fc150c641f2f',
+            client_secret: 'a77cee5077cb1c1e837891debcfe77f87f5e614e',
+        },
     })
+    gitment.render('comments')
 </script>
+
 
 
 
