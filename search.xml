@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>python爬虫教程系列、从0到1学习python爬虫</title>
+      <link href="/python%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E3%80%81%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0python%E7%88%AC%E8%99%AB.html"/>
+      <url>/python%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E3%80%81%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0python%E7%88%AC%E8%99%AB.html</url>
+      
+        <content type="html"><![CDATA[<p>python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，爬虫项目实战实例等 <a href="http://www.fxxkpython.com/" target="_blank" rel="noopener">http://www.fxxkpython.com</a></p><p>项目地址：<a href="https://github.com/wistbean/learn_python3_spider" target="_blank" rel="noopener">https://github.com/wistbean/learn_python3_spider</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>轻松学正则表达式</title>
+      <link href="/%E8%BD%BB%E6%9D%BE%E5%AD%A6%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html"/>
+      <url>/%E8%BD%BB%E6%9D%BE%E5%AD%A6%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html</url>
+      
+        <content type="html"><![CDATA[<p>轻松学正则表达式 Learn Regex the easy way ，仓库已有 2万多 Star。有在线练习和示例，还有中文版</p><p>项目地址：<a href="https://github.com/ziishaned/learn-regex" target="_blank" rel="noopener">https://github.com/ziishaned/learn-regex</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>shell 命令的可视化工具</title>
       <link href="/shell-%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7.html"/>
       <url>/shell-%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7.html</url>
@@ -110,7 +160,7 @@
       <link href="/%E3%80%8AFlask-Web%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%9A%E5%85%A5%E9%97%A8%E3%80%81%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%EF%BC%88%E6%9D%8E%E8%BE%89%E8%91%97-%EF%BC%89%E3%80%8B.html"/>
       <url>/%E3%80%8AFlask-Web%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%9A%E5%85%A5%E9%97%A8%E3%80%81%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90%EF%BC%88%E6%9D%8E%E8%BE%89%E8%91%97-%EF%BC%89%E3%80%8B.html</url>
       
-        <content type="html"><![CDATA[<p>一句话评价: 这可能是市面上(包括国外出版的)你能找到最好的讲Flask的书了</p><img src="/《Flask-Web开发实战：入门、进阶与原理解析（李辉著-）》/fm.png" title="封面"><p>这是一本面向Python程序员的，全面介绍Python Web框架Flask的书。关于本书的详细介绍、相关资源等更多信息可以访问本书的官方主页<a href="http://helloflask.com/book了解。" target="_blank" rel="noopener">http://helloflask.com/book了解。</a></p><p>• 国内首本Flask著作，在内容上涵盖完整的Flask Web开发学习路径，在实践上包含完整的Flask Web程序开发流程。同时兼容Python2 .7和Python3.6。</p><p>• 内容最新，基于Flask 1.0.2版本，所有的Python库、前端框架和JavaScript库均使用最新版本。</p><p>• 内容全面，除了基础知识，还包含Web API、全文搜索、国际化和本地化、第三方登录、AJAX、WebSocket、源码分析、扩展开发等实用内容。</p><p>• 实战性强，包含8个示例程序，5个实战项目和1个Flask扩展。实战项目包括留言板、个人博客、图片社交网站、待办事项程序和聊天室，分别对应不同的知识点，难度递增。</p><p>• 5个实战项目的Git标签经过精心设置，每个标签都对应新增的某个程序功能。</p><p>• 全书所有章节均经过精心设计和编排，力求满足不同水平读者的需要，并且让读者可以循序渐进的掌握Flask开发知识和技巧。</p><p>• 通过丰富的图表和代码示例讲解复杂知识点，尽量做到通俗易懂。</p><p>本书共16章，分为三部分。</p><p>第一部分 基础篇（第1~6章）</p><p>通过大量的程序实例详细介绍了Flask的所有基础知识，同时在每章的后面又提供了一些进阶技巧，供进阶读者学习。</p><p>第二部分 实战篇（第7~11章）</p><p>通过5个真实的项目案例来串接和阐释不同的知识点，难度逐渐递增。这5个案例分别为：留言板SayHello、个人博客Bluelog、图片社交网站Albumy、待办事项程序Todoism和聊天室CatChat。</p><p>第三部分 进阶篇（第12~16章）</p><p>首先介绍了Flask程序的部署流程：测试、性能优化和部署上线；然后通过一个真实的实例讲解了Flask扩展的开发，最后以源代码为切入点深入剖析了Flask的实现原理与主要工作机制。</p><hr><p>百度网盘：<a href="https://pan.baidu.com/s/1Ps_TEHDIvvQoqPnVNlCteg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Ps_TEHDIvvQoqPnVNlCteg</a></p><p>提取码：q1y2</p>]]></content>
+        <content type="html"><![CDATA[<p>一句话评价: 这可能是市面上(包括国外出版的)你能找到最好的讲Flask的书了</p><p>这是一本面向Python程序员的，全面介绍Python Web框架Flask的书。关于本书的详细介绍、相关资源等更多信息可以访问本书的官方主页<a href="http://helloflask.com/book了解。" target="_blank" rel="noopener">http://helloflask.com/book了解。</a></p><p>• 国内首本Flask著作，在内容上涵盖完整的Flask Web开发学习路径，在实践上包含完整的Flask Web程序开发流程。同时兼容Python2 .7和Python3.6。</p><p>• 内容最新，基于Flask 1.0.2版本，所有的Python库、前端框架和JavaScript库均使用最新版本。</p><p>• 内容全面，除了基础知识，还包含Web API、全文搜索、国际化和本地化、第三方登录、AJAX、WebSocket、源码分析、扩展开发等实用内容。</p><p>• 实战性强，包含8个示例程序，5个实战项目和1个Flask扩展。实战项目包括留言板、个人博客、图片社交网站、待办事项程序和聊天室，分别对应不同的知识点，难度递增。</p><p>• 5个实战项目的Git标签经过精心设置，每个标签都对应新增的某个程序功能。</p><p>• 全书所有章节均经过精心设计和编排，力求满足不同水平读者的需要，并且让读者可以循序渐进的掌握Flask开发知识和技巧。</p><p>• 通过丰富的图表和代码示例讲解复杂知识点，尽量做到通俗易懂。</p><p>本书共16章，分为三部分。</p><p>第一部分 基础篇（第1~6章）</p><p>通过大量的程序实例详细介绍了Flask的所有基础知识，同时在每章的后面又提供了一些进阶技巧，供进阶读者学习。</p><p>第二部分 实战篇（第7~11章）</p><p>通过5个真实的项目案例来串接和阐释不同的知识点，难度逐渐递增。这5个案例分别为：留言板SayHello、个人博客Bluelog、图片社交网站Albumy、待办事项程序Todoism和聊天室CatChat。</p><p>第三部分 进阶篇（第12~16章）</p><p>首先介绍了Flask程序的部署流程：测试、性能优化和部署上线；然后通过一个真实的实例讲解了Flask扩展的开发，最后以源代码为切入点深入剖析了Flask的实现原理与主要工作机制。</p><hr><p>百度网盘：<a href="https://pan.baidu.com/s/1Ps_TEHDIvvQoqPnVNlCteg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Ps_TEHDIvvQoqPnVNlCteg</a></p><p>提取码：q1y2</p>]]></content>
       
       
       <categories>
@@ -135,7 +185,7 @@
       <link href="/%E3%80%8APython%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88PDF-%E8%8B%B1%E6%96%87%E7%89%88PDF-%E6%BA%90%E4%BB%A3%E7%A0%81.html"/>
       <url>/%E3%80%8APython%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88PDF-%E8%8B%B1%E6%96%87%E7%89%88PDF-%E6%BA%90%E4%BB%A3%E7%A0%81.html</url>
       
-        <content type="html"><![CDATA[<img src="/《Python神经网络编程》中文版PDF-英文版PDF-源代码/fengmian.png" title="封面"><p><strong>关于内容</strong></p><p>这本书主要揭示神经网络背后的概念，并介绍如何通过Python实现神经网络。全书主要讲了三部分内容：</p><blockquote><p>介绍了神经网络中所用到的数学思想。</p><p>介绍使用Python实现神经网络，识别手写数字，并测试神经网络的性能。</p><p>带领读者进一步了解简单的神经网络，观察已受训练的神经网络内部，尝试进一步改善神经网络的性能，并加深对相关知识的理解。</p></blockquote><p>虽然是讲神经网络编程的书，但是因为作者强大的功力，他能把一些复杂的概念都讲得很清楚，并且用极为简单的例子举例说明，比如XOR问题，超参数，学习率，过拟合，模型容量等概念，因此读者不需要具备任何复杂的数学知识和深度学习的理论。</p><p>网友们评价：“ 这是一本入门书该有的样子，实在是业界良心。” </p><img src="/《Python神经网络编程》中文版PDF-英文版PDF-源代码/comment.png" title="评价"><p>如果你对人工智能或神经网络感兴趣的话，这应该是你的第一本必读书目</p><p>百度网盘：<a href="https://pan.baidu.com/s/1HdfTUgvU7UucZiElYtvgDA" target="_blank" rel="noopener">https://pan.baidu.com/s/1HdfTUgvU7UucZiElYtvgDA</a></p><p>提取码：umgv</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>关于内容</strong></p><p>这本书主要揭示神经网络背后的概念，并介绍如何通过Python实现神经网络。全书主要讲了三部分内容：</p><blockquote><p>介绍了神经网络中所用到的数学思想。</p><p>介绍使用Python实现神经网络，识别手写数字，并测试神经网络的性能。</p><p>带领读者进一步了解简单的神经网络，观察已受训练的神经网络内部，尝试进一步改善神经网络的性能，并加深对相关知识的理解。</p></blockquote><p>虽然是讲神经网络编程的书，但是因为作者强大的功力，他能把一些复杂的概念都讲得很清楚，并且用极为简单的例子举例说明，比如XOR问题，超参数，学习率，过拟合，模型容量等概念，因此读者不需要具备任何复杂的数学知识和深度学习的理论。</p><p>网友们评价：“ 这是一本入门书该有的样子，实在是业界良心。” </p><p>如果你对人工智能或神经网络感兴趣的话，这应该是你的第一本必读书目</p><p>百度网盘：<a href="https://pan.baidu.com/s/1HdfTUgvU7UucZiElYtvgDA" target="_blank" rel="noopener">https://pan.baidu.com/s/1HdfTUgvU7UucZiElYtvgDA</a></p><p>提取码：umgv</p>]]></content>
       
       
       <categories>
