@@ -4,6 +4,158 @@
   
     
     <entry>
+      <title>python实现的开源软件列表</title>
+      <link href="/python%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8.html"/>
+      <url>/python%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8.html</url>
+      
+        <content type="html"><![CDATA[<p>1 个开源的软件/产品代码，抵得上 1000 篇博文和 Stack Overflow 问答贴</p><p>项目地址：<a href="https://github.com/mahmoud/awesome-python-applications" target="_blank" rel="noopener">https://github.com/mahmoud/awesome-python-applications</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>程序员工作中常见的英语词汇</title>
+      <link href="/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87.html"/>
+      <url>/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87.html</url>
+      
+        <content type="html"><![CDATA[<p>本列表中的单词是英语类计算机书籍，文档，文章中高频常见的技术词汇，最终目的是希望程序员集合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档。</p><p>项目地址：<a href="https://github.com/Wei-Xia/most-frequent-technology-english-words" target="_blank" rel="noopener">https://github.com/Wei-Xia/most-frequent-technology-english-words</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>深度学习工程师生存指南</title>
+      <link href="/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.html"/>
+      <url>/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.html</url>
+      
+        <content type="html"><![CDATA[<p>讲述一个深度学习工程师所需的所有东西</p><p>项目地址：<a href="https://github.com/ypwhs/dl-engineer-guidebook" target="_blank" rel="noopener">https://github.com/ypwhs/dl-engineer-guidebook</a></p><p>网站：<a href="https://dl.ypw.io/" target="_blank" rel="noopener">https://dl.ypw.io/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>为 Github 文件生成下载链接</title>
+      <link href="/%E4%B8%BA-Github-%E6%96%87%E4%BB%B6%E7%94%9F%E6%88%90%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5.html"/>
+      <url>/%E4%B8%BA-Github-%E6%96%87%E4%BB%B6%E7%94%9F%E6%88%90%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="创建GitHub资源下载链接"><a href="#创建GitHub资源下载链接" class="headerlink" title="创建GitHub资源下载链接"></a>创建GitHub资源下载链接</h4><p>使用此工具，您可以直接下载或创建任何GitHub <strong>公共目录或文件的</strong>下载链接。</p><p>项目地址：<a href="https://github.com/MinhasKamal/DownGit" target="_blank" rel="noopener">https://github.com/MinhasKamal/DownGit</a></p><h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><p><a href="https://minhaskamal.github.io/DownGit" target="_blank" rel="noopener">DownGit</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>macOS、windows、Linux资源清单</title>
+      <link href="/macOS%E3%80%81windows%E3%80%81Linux%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.html"/>
+      <url>/macOS%E3%80%81windows%E3%80%81Linux%E8%B5%84%E6%BA%90%E6%B8%85%E5%8D%95.html</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://github.com/iCHAIT/awesome-macOS" target="_blank" rel="noopener">awesome-macOS</a>：上面搜集与整理了许多非常优质的macOS 软件 ，其中包含编辑器、命令行终端、聊天工具以及其它一些特别适用的生产力工具</p><p><a href="https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md" target="_blank" rel="noopener">Awesome Windows</a>，一个灵感来自于 Awesome macOS，同样收集一批优质软件的项目集合清单  </p><p><a href="https://github.com/luong-komorebi/Awesome-Linux-Software" target="_blank" rel="noopener">Awesome Linux Software</a> 是由越南一位开发者 Luong Vo 发起并维护的 Linux 软件清单，这个清单中也提供了非常多Linux 软件供参考软性。基于 Linux 本身强大的生态，该清单同时提供了巴西葡萄牙文、中文、西班牙文、泰文等多种语言版本供选择阅读。此外，该项目还提供了一些 Linux 操作系统学习资料，方便开发者进一步探索与 Linux 相关知识</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python算法大全</title>
+      <link href="/python%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.html"/>
+      <url>/python%E7%AE%97%E6%B3%95%E5%A4%A7%E5%85%A8.html</url>
+      
+        <content type="html"><![CDATA[<p>所有算法的python实现</p><p>项目地址：<a href="https://github.com/TheAlgorithms/Python" target="_blank" rel="noopener">https://github.com/TheAlgorithms/Python</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>python爬虫教程系列、从0到1学习python爬虫</title>
       <link href="/python%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E3%80%81%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0python%E7%88%AC%E8%99%AB.html"/>
       <url>/python%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E3%80%81%E4%BB%8E0%E5%88%B01%E5%AD%A6%E4%B9%A0python%E7%88%AC%E8%99%AB.html</url>
