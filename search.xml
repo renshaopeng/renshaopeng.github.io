@@ -2,6 +2,19 @@
 <search> 
   
   
+    
+    <entry>
+      <title>hello</title>
+      <link href="/hello.html"/>
+      <url>/hello.html</url>
+      
+        <content type="html"><![CDATA[<p>呵呵</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
