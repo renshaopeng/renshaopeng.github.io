@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>第三篇测试智盯</title>
+      <link href="/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%B5%8B%E8%AF%95%E6%99%BA%E7%9B%AF.html"/>
+      <url>/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%B5%8B%E8%AF%95%E6%99%BA%E7%9B%AF.html</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 21:04:40 GMT+0800 (GMT+08:00) --><p>第三篇文章，测试置顶</p><!-- rebuild by neat -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 置顶测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第二篇文章</title>
       <link href="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
       <url>/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0.html</url>
       
-        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 20:43:42 GMT+0800 (GMT+08:00) --><p>第二篇文章</p><!-- rebuild by neat -->]]></content>
+        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 21:04:40 GMT+0800 (GMT+08:00) --><p>第二篇文章</p><!-- rebuild by neat -->]]></content>
       
       
       <categories>
@@ -33,7 +58,7 @@
       <link href="/hello.html"/>
       <url>/hello.html</url>
       
-        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 20:43:42 GMT+0800 (GMT+08:00) --><p>呵呵</p><!-- rebuild by neat -->]]></content>
+        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 21:04:40 GMT+0800 (GMT+08:00) --><p>呵呵</p><!-- rebuild by neat -->]]></content>
       
       
       <categories>
