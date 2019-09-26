@@ -4,13 +4,50 @@
   
     
     <entry>
+      <title>第二篇文章</title>
+      <link href="/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0.html"/>
+      <url>/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0.html</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 18:46:16 GMT+0800 (GMT+08:00) --><p>第二篇文章</p><!-- rebuild by neat -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -标签儿 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hello</title>
       <link href="/hello.html"/>
       <url>/hello.html</url>
       
-        <content type="html"><![CDATA[<p>呵呵</p>]]></content>
+        <content type="html"><![CDATA[<!-- build time:Thu Sep 26 2019 18:46:16 GMT+0800 (GMT+08:00) --><p>呵呵</p><!-- rebuild by neat -->]]></content>
       
       
+      <categories>
+          
+          <category> 随笔2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试标签 </tag>
+            
+        </tags>
       
     </entry>
     
